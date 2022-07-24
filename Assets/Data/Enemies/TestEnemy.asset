@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6f7a80b11df34244acae0c743f65ab8, type: 3}
+  m_Name: TestEnemy
+  m_EditorClassIdentifier: 
+  Name: Test Enemy
+  AI: 0
+  Level: 1
+  HP: 1460
+  EP: 1762
+  Skills: 01000000010000000100000001000000
+  SkillUseChance: 190000000c0000000d00000032000000
+  Attack: 5
+  Magic: 10
+  Defense: 2
+  Resistance: 5
+  Speed: 7
+  Luck: 12
+  EXPReward: 100
+  eAffinity:
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  - Element: 0
+    Affinity: 0
+  sAffinity:
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
+  - Status: 0
+    Affinity: 0
