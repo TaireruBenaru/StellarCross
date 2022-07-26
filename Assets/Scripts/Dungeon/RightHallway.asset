@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: RightHallway
   m_EditorClassIdentifier: 
   Self: 3
-  ConnectionProspect: 0300000008000000
+  ConnectionProspect: 020000000a000000
   Size: 0
+  Image: {fileID: 21300000, guid: ec3901189b1c68545ba27a1cd14b552b, type: 3}

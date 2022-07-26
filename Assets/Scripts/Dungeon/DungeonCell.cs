@@ -8,6 +8,7 @@ public class DungeonCell : ScriptableObject
     public CellList Self;
     public CellList[] ConnectionProspect;
     public CellSize Size;
+    public Sprite Image;
 }
 
 public enum CellList
@@ -23,6 +24,7 @@ public enum CellList
     UpHallwayRightOpening,
     UpHallwayDeadEnd,
     RightHallwayDeadEnd,
+    Reserved,
 }
 
 public enum CellSize
